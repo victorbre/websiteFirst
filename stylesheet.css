@@ -36,6 +36,11 @@
     padding: 10px;
     height: 200px; /* Should be removed. Only for demonstration */
   }
+
+.done{
+    color: grey;
+    text-decoration: line-through;
+  }
   
   /* Style the footer */
   .footer {
