@@ -29,7 +29,12 @@
     background-color: #ddd;
     color: black;
   }
-  
+  .login{
+    float: right!;
+    align-items: center;
+    text-align: right;
+}
+
   /* Style the content */
   .content {
     background-color: #ddd;
@@ -41,6 +46,18 @@
     color: grey;
     text-decoration: line-through;
   }
+.doing{
+    background-color: #121212;
+    padding: 0.5em;
+    text-decoration: none;
+    text-shadow: salmon;
+    color: hotpink;
+    stroke: saddlebrown;
+    stroke-width: 1em;
+    font-size: large;
+    font-style: initial;
+}
+
   
   /* Style the footer */
   .footer {
