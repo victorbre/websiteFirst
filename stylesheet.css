@@ -29,11 +29,13 @@
     background-color: #ddd;
     color: black;
   }
-  .login{
-    float: right!;
+  .topnav a.right{
+    display: block;
+    float: right!important;
     align-items: center;
     text-align: right;
-}
+  }
+
 
   /* Style the content */
   .content {
